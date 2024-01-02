@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following line of text was copied from a private plain-text journal entry which was written by karbytes on 29_DECEMBER_2023 and saved inside of a private karbytes-creaeted GitHub repository named karbytes_basement_2:
+The following line of text was copied from a private plain-text journal entry which was written by karbytes on 29_DECEMBER_2023 and saved inside of a private karbytes-created GitHub repository named karbytes_basement_2:
 
 I noticed that, at approximately 9AM Pacific Standard Time on 29_DECEMBER_2023 (the day I am supposed to get a paycheck from Amazon deposited into my Patelco checking account) my paycheck take-home pay (which is approximately $140 (for approximately 8 hours worked last pay cycle) according to the paycheck statement issued by the Amazon A to Z app) has not yet been deposited (which is unusual considering that all of my other paychecks for this job have been deposited on time).
 
