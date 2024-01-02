@@ -1,12 +1,12 @@
 /**
  * file: karbytes_02_january_2024.txt
  * type: plain-text
- * date: 01_JANUARY_2024
+ * date: 02_JANUARY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following lines of text was copied from a private plain-text journal entry which was written by karbytes on 01_JANUARY_2024 and saved inside of a private karbytes-created GitHub repository named karbytes_basement_2:
+The following six lines of text was copied from a private plain-text journal entry which was written by karbytes on 01_JANUARY_2024 and saved inside of a private karbytes-created GitHub repository named karbytes_basement_2:
 
 Are there currently enough material resources available on Planet Earth to sustain human civilization for the next two hundred years?
 
