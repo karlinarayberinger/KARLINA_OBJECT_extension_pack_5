@@ -20,6 +20,8 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 (karbytes' personal storage space)
 
+((*) perhaps the word "unit" is more appropriate to use in the line of text above than "space" for the reason that unit seems to denote a unique and finite allocation rather than some nebulous, shape-shifting collection of objects)
+
 After work, I biked back to Warm Springs BART station plaza where I thought I might have accidentally left the keychain. I did not see it where I thought I left it. Hence, I checked the inerds of my backpack and found the keychain in my swim trunks pocket (and I was wearing those swim trunks to keep my other clothes dry (and because swim trunks dry faster than those other clothes) while it was raining).
 
 The significance of this story is that having digital files backed up on physical media (such as a USB flash drive or an M_DISC or a computational device's internal data storage hardware) is like having a physical and virtual intermediary. 
