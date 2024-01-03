@@ -20,6 +20,8 @@ After work, I biked back to Warm Springs BART station plaza where I thought I mi
 
 The significance of this story is that having digital files backed up on physical media (such as a USB flash drive or an M_DISC or a computational device's internal data storage hardware) is like having a physical and virtual intermediary. 
 
+(In the previous sentence I meant for the word "virtual" to be synonymous with the word "cyberspace").
+
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_11/main/karbytes_at_warm_springs_bart_station_17_february_2023.mp4
 
 If I truly left my keychain at Warm Springs BART station (see the video referenced in the paragraph above this paragraph to see karbytes at that particular BART station plaza on 17_FEBRUARY_2024), a "random" person might have picked it up, plugged it into a computer, and accessed the files which I backed up onto that keychain's flash drive (and, what I was worried about in particular was someone stealing my bank account and debit card information in order to steal my money or commit crimes in my name (arcane legally speaking)).
