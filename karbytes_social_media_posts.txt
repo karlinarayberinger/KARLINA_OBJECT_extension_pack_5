@@ -179,7 +179,6 @@ This is not a "no-op". Instead, this is part of some process in progress.
 
 On 02_JANUARY_2024 at approximately 7:30PM Pacific Standard Time, karbytes published the following tweet:
 
-
 Attributes of an information processing agent which are unique (i.e. not assigned to any other information processing agent) is that information processing agent's memories, goals, and behaviors.
 
 #uniqueness #agency #simulation
