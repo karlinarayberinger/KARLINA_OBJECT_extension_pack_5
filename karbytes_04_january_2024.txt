@@ -53,3 +53,9 @@ Unlike the note file I created yesterday (approximately 12 hours ago) named karb
 I noticed what appears to be another example of what karbytes refers to as an error in another one of the "micro directories" which is listed on the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com: the fact that the web page named raw_github_files_directory_INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW and the web page named raw_github_files_directory_INSTAGRAM_SCREENSHOTS_2022_KARBYTES (of the aforementioned website) are both missing a video file depicting approximately ten seconds of riding a BART train from the inside of one of the mostly empty cars while looking out the windows at the surrounding Daly City region during afternoon. I will keep looking for it throughout my collection of web-based data or else I will simply download that video from my Instagram and upload it to the GitHub repository which contains this note (and that repository is associated with the web page named raw_github_files_directory_karlina_object_extension_pack_5 of the website named Karbytes For Life Blog dot WordPress dot Com).
 
 (I noticed another karbytes_digital_file_hyperlink_coloring_incorrect error in the web page named raw_github_files_directory_karlina_object_extension_pack_2 of the aforementioned website).
+
+* * *
+
+I found the BART train video (which I am sharing because I want the web page which this plain-text note is an abridged version of to be an immersive museum-like experience which provides glimpses into my life especially as it pertains to commuting via BART and manifesting what I desire to create as a digital content creator):
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/BART_Train_Ride_2021.mp4
