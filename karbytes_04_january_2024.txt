@@ -16,23 +16,17 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 (karbytes' personal vehicle)
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/instagram_karbytes_28_september_2023_part_0.mp4 
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/instagram_karbytes_28_september_2023_part_0.mp4
 
 (karbytes' personal storage space)
 
 ((*) perhaps the word "unit" is more appropriate to use in the line of text above than "space" for the reason that unit seems to denote a unique and finite allocation rather than some nebulous, shape-shifting collection of objects)
 
-After work, I biked back to Warm Springs BART station plaza where I thought I might have accidentally left the keychain. I did not see it where I thought I left it. Hence, I checked the inerds of my backpack and found the keychain in my swim trunks pocket (and I was wearing those swim trunks to keep my other clothes dry (and because swim trunks dry faster than those other clothes) while it was raining).
+After work, I biked back to Warm Springs BART station plaza where I thought I might have accidentally left the keychain. I did not see it where I thought I left it. Hence, I checked the innards of my backpack and found the keychain in my swim trunks pocket (and I was wearing those swim trunks to keep my other clothes dry (and because swim trunks dry faster than those other clothes) while it was raining).
 
 The significance of this story is that having digital files backed up on physical media (such as a USB flash drive or an M_DISC or a computational device's internal data storage hardware) is like having a physical and virtual intermediary. 
 
 (In the previous sentence I meant for the word "virtual" to be synonymous with the word "cyberspace").
-
-* * *
-
-I found the BART train video (which I am sharing because I want the web page which this plain-text note is an abridged version of to be an immersive museum-like experience which provides glimpses into my life especially as it pertains to commuting via BART and manifesting what I desire to create as a digital content creator):
-
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/BART_Train_Ride_2021.mp4
 
 https://raw.githubusercontent.com/karlinarayberinger/INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW/main/bart_fremont_february_2021.jpeg
 
@@ -42,7 +36,7 @@ If I truly left my keychain at Warm Springs BART station (see the video referenc
 
 * * *
 
-Unlike the note file I created yesterday (approximately 12 hours ago) named karbytes_03_january_2024.txt), I decided to make this note file which I am writing into existence (and which I am naming karbytes_04_janauary_2024) open to more edits before I classify this file as being in its final draft form.
+Unlike the note file I created yesterday (approximately 12 hours ago (at the approximate time at which I added this note's plain-text file to GitHub) named karbytes_03_january_2024.txt), I decided to make this note file which I am writing into existence (and which I am naming karbytes_04_january_2024.txt) open to more edits before I classify this file as being in its final draft form.
 
 (What inspired me to write this section of this note is searching through my blog website (which I created and named Karbytes For Life Blog dot WordPress dot Com) to find that video of me at Warm Springs BART station approximately one year ago and noticing that some of the hyperlink colors on the web page named raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_11 are incorrectly color-coded. In particular, those hyperlink colors are supposed to conform to the styling rules specified in the web page named PUBLIC_DOMAIN. I intend to correct any other instances of that particular error type (i.e. karbytes_digital_file_hyperlink_coloring_incorrect) before midnight (i.e. the moment 04_JANUARY_2024 begins for "inhabitants" of the Pacific Standard Time regions) throughout that website, all corresponding GitHub repositories, and that flash drive on my keychain).
 
