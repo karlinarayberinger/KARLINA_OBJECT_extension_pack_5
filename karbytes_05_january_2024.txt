@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_05_january_2024.txt
+ * type: plain-text
+ * date: 05_JANUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 Approximately one week ago, the "break pads" which squeeze against my back bicycle tire when I squeeze the lever which causes the "break pads" to push the back tire against the relatively stationary bike frame got a bit loose such that the back tire "wobbles" in and out of alignment when I ride the bike (and the back tire tends to resist turning unless I apply sufficient weight to the bike pedals while peddling). 
 
