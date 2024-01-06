@@ -1,4 +1,11 @@
-t
+/**
+ * file: karbytes_07_january_2024.txt
+ * type: plain-text
+ * date: 06_JANUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
 What appears to be a non-playable character from my point of view at this time may or may not be a playable character from some point of view other than my own. 
 
 From my point of view at this time, I appear to have always been the only playable character I have had playable access to and I still currently appear to be rendering my encompassing universe from that playable character's point of view.
