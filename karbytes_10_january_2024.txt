@@ -1,7 +1,7 @@
 /**
  * file: karbytes_10_january_2024.txt
  * type: plain-text
- * date: 10_JANUARY_2024
+ * date: 11_JANUARY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -35,3 +35,11 @@ I forgot to mention earlier while initially writing this plain-text note file in
 Also, while saving public karbytes-created "micro directory" web pages ((with the "save outlinks" option selected) which are listed on the public karbytes-created web page named RAW_GITHUB_FILES_MACRO_DIRECTORY on the public karbytes-created website named Karbytes For Life Blog dot WordPress dot Com) to the WayBack Machine at Archive dot Org, I noticed that some of the hyperlinks to HTML web page source code files listed on the public karbytes-created web page named raw_github_files_directory_MINDS_2020_SCREENSHOTS on the public karbytes-created website named Karbytes For Life Blog dot WordPress dot Com were broken (i.e. pointing to non-existent web hosted files). I fixed those broken links approximately two hours ago and updated my GitHub repositories, WordPress dot Com websites, and flash drive accordingly (and I saved all the files which are hosted on either WordPress dot Com and GitHub dot Com which I edited approximately two hours ago to the WayBack Machine).
 
 Finally, I found an abandoned shopping cart in downtown Castro Valley and decided to put it in my room at my legal address (along with my tattered old Walmart kid's bicycle and functional U-lock) so that I can use the cart to take the box containing my pre-assembled new adult bicycle which I ordered today from Amazon dot Com down to the local bike shop to have my new bike professionally assembled.
+
+* * *
+
+Approximately five minutes after I arrived home and put the Safeway shopping cart, broken bicycle, and a few extraneous things which were taking up "too much" space in my backpack away in my room (which I expect will remain undisturbed until either I return to manipulate such objects or else some other person in place of me manipulates such onjects (presumably only if I die or am institutionalized long term)), I used the self timer feature of my smartphone's camera function to take the following digital photograph:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_5/main/karbytes_displaces_cart_&_broken_bike_10jan2024.jpg
+
+Also, as I was walking out of my house and back down the hill to the Castro Valley BART station, I accidentally dropped my cannabis vaporizer pen on the cement such that the glass cartridge shattered. I fixed the vape pen cartridge such that it is now fully useful again using a technique I invented and also successfully deployed in the past when I accidentally dropped and broke vape pen cartridges: I used part of a plastic garbage bag (which I always keep an unused stash on in my backpack in case I need to replace the bags which I am currently using to keep my packed clothing, sleeping bag, and electronic components dry and compactly stowed) as an adhesive and sealant to bind the broken glass pieces of the cartridge back together.
