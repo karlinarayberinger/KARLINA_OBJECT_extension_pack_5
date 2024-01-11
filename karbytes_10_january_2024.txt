@@ -26,4 +26,4 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 The image whose Uniform Resource Locator is displayed as the following paragraph pertains to karbytes ordering a new bicycle from Amazon dot Com on 10_JANUARY_2024 for a grand total (including sales tax and shipping fees) of $242.53 (and the bicycle is expected to be delivered pre-assembled to karbytes' home address within the next two weeks):
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_5/main/karbytes_orders_new_mountain_bicycle_from_amazon_d0t_com_10_january_2024.png
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_5/main/karbytes_orders_new_mountain_bicycle_from_amazon_dot_com_10_january_2024.png
