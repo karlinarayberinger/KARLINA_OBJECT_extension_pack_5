@@ -193,6 +193,8 @@ subfolder_level_1: // (2 of 2 folders: USB_flashdrive_karbytes_11_january_2024_p
 
 	- KARBYTES_JOURNAL_2023_PART_31-main.zip
 
+	- KARBYTES_JOURNAL_2023_PART_32-main.zip
+
 	- KARLINA_OBJECT_12_JUNE_2023-main.zip
 
 	- KARLINA_OBJECT_autumn_2023_starter_pack-main.zip
