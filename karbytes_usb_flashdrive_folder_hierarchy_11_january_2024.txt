@@ -1,0 +1,233 @@
+/**
+ * file: karbytes_usb_flashdrive_folder_hierarchy_11_january_2024.txt
+ * type: plain-text
+ * date: 11_JANUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// On 11_JANUARY_2024 at 11:59PM Pacific Standard Time, the folder named 
+// USB_flashdrive_karbytes_11_january_2024_file_backup contains a total   
+// of approximately 5.1 gigabytes of data and a total of 79 files.
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Each item which is stored inside of the folder named
+// USB_flashdrive_karbytes_11_january_2024_file_backup 
+// is either a subfolder or else a zip file.
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Each zip file which is stored inside of the folder named
+// USB_flashdrive_karbytes_11_january_2024_file_backup 
+// contains all of the files which are contained within 
+// a particular karbytes-created GitHub repository.
+//
+// (The entire contents of any one of the aforementioned 
+// public karbytes-created GitHub repositories can be downloaded 
+// as a compressed file (with file extension .zip) 
+// by any consumer-grade computational device which is connected 
+// to the public World Wide Web by visiting the web page where that 
+// GitHub repository is located and clicking on the green button 
+// in the upper right corner of the GitHub repository file list).
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Each zip file which is stored inside of the folder named
+// USB_flashdrive_karbytes_11_january_2024_file_backup 
+// represents exactly one uniquely corresponding 
+// karbytes-created GitHub repository.
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Each of the source code and media files which constitute 
+// the body of public domain intellectual property 
+// referred to as karbytes (according to the public karbyte-created 
+// web page named ABOUT_KARBYTES on the public karbytes-created website 
+// named Karbytes For Life Blog dot WordPress dot Com) 
+// at 11:59PM Pacific Standard Time on 11_JANUARY_2024 
+// is contained within the folder named 
+// USB_flashdrive_karbytes_11_january_2024_file_backup.
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Whenever karbytes makes changes to any files which are hosted in 
+// the aforementioned GitHub repositories,      
+// karbytes updates karbytes' keychain USB flash drive accordingly 
+// (and sets the date component of the folder names within that flash drive 
+// to the day in which karbytes updated those aforementioned GitHub repositories). 
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+root_folder_level: // (1 folder)
+
+	- USB_flashdrive_karbytes_11_january_2024_file_backup
+
+subfolder_level_0: // (2 folders)
+
+	- USB_flashdrive_karbytes_11_january_2024_private_github_repositories
+
+	- USB_flashdrive_karbytes_11_january_2024_public_github_repositories
+
+subfolder_level_1: // (1 of 2 folders: USB_flashdrive_karbytes_11_january_2024_private_github_repositories)
+
+	- karbytes_basement_0-main.zip
+
+	- karbytes_basement_1-main.zip
+
+	- karbytes_basement_2-main.zip
+
+subfolder_level_1: // (2 of 2 folders: USB_flashdrive_karbytes_11_january_2024_public_github_repositories)
+
+	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW-main.zip
+
+	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip
+
+	- karbytes_23AndMe_Ancestry_Data-main.zip
+
+	- KARBYTES_BRAND_IMAGES_2021-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_0-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_1-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_2-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_3-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_4-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_5-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_6-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_7-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_8-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_9-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_10-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_11-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_12-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_13-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_14-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_15-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_16-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_16B-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_16C-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_16D-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_0-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_1-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_2-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_3-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_4-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_5-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_6-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_7-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_8-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_9-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_10-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_11-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_12-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_13-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_14-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_15-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_16-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_17-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_18-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_19-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_20-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_21-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_22-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_23-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_24-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_25-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_26-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_27-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_28-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_29-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_30-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_31-main.zip
+
+	- KARLINA_OBJECT_12_JUNE_2023-main.zip
+
+	- KARLINA_OBJECT_autumn_2023_starter_pack-main.zip
+
+	- KARLINA_OBJECT_extension_pack_0-main.zip
+
+	- KARLINA_OBJECT_extension_pack_1-main.zip
+
+	- KARLINA_OBJECT_extension_pack_2-main.zip
+
+	- KARLINA_OBJECT_extension_pack_3-main.zip
+
+	- KARLINA_OBJECT_extension_pack_4-main.zip
+
+	- KARLINA_OBJECT_extension_pack_5-main.zip
+
+	- KARLINA_OBJECT_summer_2023_starter_pack-main.zip
+
+	- KARLINA_OBJECT_winter_2023_starter_pack-main.zip
+
+	- MINDS_2020_SCREENSHOTS-main.zip
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip
+
+	- PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip
+
+	- PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip
+
+	- PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip
+
+	- RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip
+
