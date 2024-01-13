@@ -8,6 +8,10 @@ A human body can be preserved for an indefinitely long time period while being, 
 
 * * *
 
+A spatially, temporally, and energetically finite physical object (which is abstracted as a particular configuration of atoms which each have a nonambiguous element type and unique position in space relative to each of the other atoms in that configuration) can be, more or less, replicated as a virtual object inside of some virtual universe (which can be interacted with by inhabitants of the relatively physical universe which houses the computational hardware which runs the software which causes that virtual universe to be rendered from the perspective of those inhabitants).
+
+* * *
+
 t
 
 I believe that it is possible to algo
