@@ -12,6 +12,10 @@ A spatially, temporally, and energetically finite physical object (which is abst
 
 * * *
 
+The physical hardware (inside of Universe A) which runs a piece of software which substantiates a virtual universe ((named Universe B) which is superficially indistinguishable from Universe A) can be replicated (down to the precision of atoms and perhaps even subatomic particles) as a superficially identical virtual object inside of Universe B (from the perspective of sufficiently complex information processing agent(s) which inhabit Universe B or which indirectly render the "first person" subjective experiences (in the form of a perpetually forward-moving (in time) space-time continuum with exactly one locus of rendering) of a sufficiently complex information processing agent inhabiting Universe B while still inhabiting Universe A (by interacting with Universe B through some computational hardware inside of Universe A which "instantiates" (or renders accissible) Universe B).
+
+* * *
+
 t
 
 I believe that it is possible to algo
