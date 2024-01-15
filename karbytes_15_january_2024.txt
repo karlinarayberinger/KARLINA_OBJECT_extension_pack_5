@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_15_january_2024.txt
+ * type: plain-text
+ * date: 15_JANUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 On 15_JANUARY_2024 at approximately 6:00AM Pacific Standard Time karbytes ordered a set of three M_DISC optical "read only" discs (for encoding digital files in a medium which is designed to retain that encoded information in a computer-retrievable format for up to one thousand years) from Amazon dot Com for approximately $40 total (shipping and taxes included with product price).
 
